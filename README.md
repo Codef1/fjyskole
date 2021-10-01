@@ -1,0 +1,2 @@
+# fjyskole
+Noroff stuff
